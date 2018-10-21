@@ -1,3 +1,4 @@
+
 'use strict';
 
 const e = React.createElement;
@@ -10,7 +11,7 @@ class LikeButton extends React.Component {
 
   render() {
     if (this.state.liked) {
-      return 'Have a great day!';
+      return 'Have a great day!.';
     }
 
     return e(
