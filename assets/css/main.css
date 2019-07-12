@@ -1161,9 +1161,10 @@ input, select, textarea {
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-			background-image: url("../../images/bg.jpg");
-			background-position: center;
+			background-image: url("https://i.ibb.co/JytDnZV/Fast-Forward-Web-BG-seasoncover.jpg");
+			background-position: center center;
 			background-size: cover;
+			background-attachment: fixed;
 			background-repeat: no-repeat;
 			z-index: 1;
 		}
